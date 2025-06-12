@@ -15,3 +15,9 @@ This project is a simple and interactive web application that predicts the **nex
 
 ## 📂 Project Structure
 
+next-word-prediction-lstm-streamlit/
+├── app.py # Streamlit frontend
+├── tokenizer.pickle # Saved tokenizer
+├── next_word_lstm.h5 # Trained model
+├── requirements.txt # List of required packages
+└── README.md # Documentation
