@@ -1,3 +1,8 @@
+
+LINK
+
+https://next-word-prediction-lstm-app-cyzccoxkr8asmrapf4fj72.streamlit.app/
+
 # 🔮 Next Word Prediction with LSTM and Streamlit
 
 This project is a simple and interactive web application that predicts the **next word** in a sentence using a trained **LSTM (Long Short-Term Memory)** neural network. Built with **Streamlit** for an intuitive interface.
